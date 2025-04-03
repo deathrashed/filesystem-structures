@@ -332,7 +332,7 @@ You can copy entire structures or portions that fit your needs:
 
 ```bash
 # Clone the entire repository
-git clone https://github.com/username/filesystem-structures.git
+git clone https://github.com/deathrashed/filesystem-structures.git
 
 # Copy a specific structure to your home directory
 cp -r filesystem-structures/Structure\ 1\ -\ Basic/* ~/
