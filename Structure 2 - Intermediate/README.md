@@ -203,7 +203,7 @@ mkdir -p ~/Archives/{2023,2024,"Old Projects","Old Documents"}
 echo "Intermediate directory structure created successfully!"
 ```
 
-      <h3>🔄 Migration Strategy</h3>
+## 🔄 Migration Strategy
       <ol>
         <li><b>Start with top-level directories</b> - Create the main structure first</li>
         <li><b>Move content gradually</b> - Transfer files in batches to avoid overwhelming yourself</li>
