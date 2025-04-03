@@ -1,0 +1,116 @@
+Home Directory
+├── Documents
+│   ├── 2025
+│   │   ├── Q1
+│   │   │   ├── January
+│   │   │   ├── February
+│   │   │   └── March
+│   │   ├── Q2
+│   │   │   ├── April
+│   │   │   ├── May
+│   │   │   └── June
+│   │   ├── Q3
+│   │   │   ├── July
+│   │   │   ├── August
+│   │   │   └── September
+│   │   └── Q4
+│   │       ├── October
+│   │       ├── November
+│   │       └── December
+│   ├── 2024
+│   │   ├── Q1
+│   │   │   ├── Project Alpha
+│   │   │   ├── Tax Documents
+│   │   │   └── Meeting Notes
+│   │   ├── Q2
+│   │   │   ├── Project Beta
+│   │   │   ├── Quarterly Report
+│   │   │   └── Conferences
+│   │   ├── Q3
+│   │   │   ├── Project Gamma
+│   │   │   ├── Summer Internship
+│   │   │   └── Research Findings
+│   │   └── Q4
+│   │       ├── Project Delta
+│   │       ├── Year End Review
+│   │       └── Holiday Planning
+│   ├── 2023
+│   │   ├── Annual Report
+│   │   ├── Client Projects
+│   │   ├── Financial Statements
+│   │   └── HR Documents
+│   └── Archive Pre 2023
+│       ├── 2022
+│       ├── 2021
+│       └── 2020
+├── Projects
+│   ├── 2025
+│   │   ├── Q1
+│   │   │   ├── Website Redesign
+│   │   │   └── Marketing Campaign
+│   │   ├── Q2
+│   │   │   ├── Mobile App Development
+│   │   │   └── Content Strategy
+│   │   ├── Q3
+│   │   │   ├── Product Launch
+│   │   │   └── Customer Research
+│   │   └── Q4
+│   │       ├── Annual Planning
+│   │       └── Rebranding Initiative
+│   ├── 2024
+│   │   ├── Q1
+│   │   │   └── Office Relocation
+│   │   ├── Q2
+│   │   │   └── New Product Development
+│   │   ├── Q3
+│   │   │   └── Team Restructuring
+│   │   └── Q4
+│   │       └── Strategic Planning 2025
+│   └── Archive Pre 2024
+│       ├── 2023
+│       └── 2022
+├── Finances
+│   ├── 2025
+│   │   ├── Q1
+│   │   │   ├── Expenses
+│   │   │   ├── Invoices
+│   │   │   └── Statements
+│   │   ├── Q2
+│   │   │   ├── Expenses
+│   │   │   ├── Invoices
+│   │   │   └── Statements
+│   │   ├── Q3
+│   │   │   ├── Expenses
+│   │   │   ├── Invoices
+│   │   │   └── Statements
+│   │   └── Q4
+│   │       ├── Expenses
+│   │       ├── Invoices
+│   │       └── Statements
+│   ├── 2024
+│   │   ├── Tax Documents
+│   │   └── Annual Reports
+│   ├── 2023
+│   └── Tax Archives
+│       └── 2020-2022
+├── Meeting Notes
+│   ├── 2025
+│   │   ├── Q1
+│   │   │   ├── Team Meetings
+│   │   │   ├── Client Meetings
+│   │   │   └── One on Ones
+│   │   └── Q2
+│   │       ├── Team Meetings
+│   │       ├── Client Meetings
+│   │       └── One on Ones
+│   ├── 2024
+│   ├── 2023
+│   └── Archive Pre 2023
+├── Pictures
+│   ├── 2025
+│   ├── 2024
+│   ├── 2023
+│   └── Archive Pre 2023
+├── Reference (Time-independent information)
+├── Templates (Time-independent templates)
+└── Downloads (Default browser download location)

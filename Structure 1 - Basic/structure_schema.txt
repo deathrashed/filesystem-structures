@@ -1,0 +1,29 @@
+Home Directory
+├── Documents
+│   ├── Personal
+│   ├── Work
+│   ├── School
+│   └── Financial
+├── Downloads
+│   ├── Installers
+│   ├── Documents
+│   ├── Images
+│   └── Archives
+├── Pictures
+│   ├── Personal
+│   ├── Work
+│   ├── Wallpapers
+│   └── Screenshots
+├── Music
+│   ├── Albums
+│   ├── Playlists
+│   ├── Podcasts
+│   └── Audiobooks
+├── Videos
+│   ├── Movies
+│   ├── TV Shows
+│   ├── Personal
+│   └── Tutorials
+└── Desktop
+    ├── Current Projects
+    └── To Sort

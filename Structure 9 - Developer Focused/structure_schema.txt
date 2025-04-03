@@ -1,0 +1,76 @@
+Home Directory
+├── dev (Main development workspace)
+│   ├── projects (Individual project repositories)
+│   │   ├── my web app
+│   │   │   ├── src
+│   │   │   ├── tests
+│   │   │   ├── docs
+│   │   │   ├── .venv (Virtual environment)
+│   │   │   └── libs -> /dev/libs/common utils (Symlink to shared library)
+│   │   ├── data analysis project
+│   │   │   ├── notebooks
+│   │   │   ├── scripts
+│   │   │   ├── data
+│   │   │   │   ├── raw
+│   │   │   │   ├── processed
+│   │   │   │   └── external data -> /Data/datasets/large datasets (Symlink to large datasets)
+│   │   │   └── .venv
+│   │   └── mobile app
+│   │       ├── src
+│   │       ├── assets
+│   │       ├── docs
+│   │       ├── tests
+│   │       └── libs -> /dev/libs/ui components (Symlink to shared UI components)
+│   ├── libs (Shared libraries & components)
+│   │   ├── common utils
+│   │   ├── ui components
+│   │   └── data connectors
+│   ├── tools (Scripts, utilities)
+│   │   ├── scripts
+│   │   ├── cli
+│   │   └── productivity
+│   ├── sandbox (Experiments & learning)
+│   │   ├── experiments
+│   │   ├── prototypes
+│   │   └── learning
+│   └── config (Development configurations)
+│       ├── git
+│       ├── editors
+│       └── environments
+├── Documents (Non-code documents)
+│   ├── dev (Development-related docs)
+│   │   ├── project docs
+│   │   ├── notes
+│   │   ├── references
+│   │   └── presentations
+│   ├── personal
+│   │   ├── finances
+│   │   ├── health
+│   │   ├── travel
+│   │   └── education
+│   └── work
+│       ├── client docs
+│       ├── contracts
+│       ├── reports
+│       └── presentations
+├── Data (Central large dataset storage)
+│   ├── datasets
+│   │   ├── large datasets
+│   │   ├── public datasets
+│   │   └── private datasets
+│   ├── databases
+│   ├── backups
+│   └── exports
+├── CloudStorage (Symlink or mount point for cloud drives)
+│   ├── cloud sync
+│   ├── shared projects
+│   └── shared docs
+├── Desktop (Standard OS folders)
+├── Downloads
+├── Pictures
+├── Music
+├── Videos
+└── Jump (Quick access symlinks)
+    ├── Projects -> /dev/projects
+    ├── Docs -> /Documents
+    └── Data -> /Data

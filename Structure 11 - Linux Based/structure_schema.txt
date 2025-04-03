@@ -1,0 +1,24 @@
+home/
+└── username/
+    ├── .cache/              # Cache files
+    ├── .config/             # User configuration files
+    │   ├── alacritty/       # Terminal emulator config
+    │   ├── dunst/           # Notification daemon config
+    │   ├── gtk-3.0/         # GTK3 theming config
+    │   ├── i3/              # i3 window manager config
+    │   ├── mpv/             # Media player config
+    │   ├── nvim/            # Neovim editor config
+    │   ├── picom/           # Compositor config
+    │   ├── polybar/         # Status bar config
+    │   ├── ranger/          # File manager config
+    │   └── rofi/            # Application launcher config
+    ├── .local/              # User-specific data
+    │   ├── bin/             # User executables
+    │   └── share/           # User application data
+    ├── dev/                 # Development projects
+    ├── documents/           # Documents
+    ├── downloads/           # Downloaded files
+    ├── music/               # Music files
+    ├── pictures/            # Images and photos
+    ├── scripts/             # User scripts
+    └── videos/              # Video files

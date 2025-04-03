@@ -1,0 +1,226 @@
+Home Directory
+├── Documents
+│   ├── Personal
+│   │   ├── ID
+│   │   │   ├── Scans
+│   │   │   └── Digital
+│   │   ├── Financial
+│   │   │   ├── Banking
+│   │   │   ├── Investments
+│   │   │   ├── Taxes
+│   │   │   └── Receipts
+│   │   ├── Health
+│   │   │   ├── Records
+│   │   │   ├── Insurance
+│   │   │   └── Fitness
+│   │   └── Writing
+│   │       ├── Journal
+│   │       ├── Creative
+│   │       └── Notes
+│   ├── Work
+│   │   ├── Projects
+│   │   │   ├── Active
+│   │   │   ├── Planning
+│   │   │   └── Archived
+│   │   ├── References
+│   │   │   ├── Industry
+│   │   │   ├── Technical
+│   │   │   └── Competitors
+│   │   └── Administration
+│   │       ├── HR
+│   │       ├── Contracts
+│   │       ├── Legal
+│   │       └── Policies
+│   ├── Reference
+│   │   ├── Manuals
+│   │   │   ├── Software
+│   │   │   ├── Hardware
+│   │   │   └── Procedures
+│   │   ├── Tutorials
+│   │   │   ├── Software
+│   │   │   ├── Skills
+│   │   │   └── DIY
+│   │   └── Templates
+│   │       ├── Work
+│   │       ├── Personal
+│   │       └── Creative
+│   └── Data
+│       ├── Raw
+│       ├── Processed
+│       ├── Analysis
+│       └── Exports
+├── Projects
+│   ├── Active
+│   │   ├── Development
+│   │   ├── Research
+│   │   ├── Creative
+│   │   └── Work
+│   ├── Archived
+│   │   ├── 2022
+│   │   ├── 2023
+│   │   └── 2024
+│   ├── Resources
+│   │   ├── Templates
+│   │   ├── Libraries
+│   │   └── References
+│   └── Collaboration
+│       ├── Shared
+│       └── External
+├── Media
+│   ├── Images
+│   │   ├── Personal
+│   │   │   ├── Family
+│   │   │   ├── Travel
+│   │   │   └── Events
+│   │   ├── Work
+│   │   │   ├── Projects
+│   │   │   └── Marketing
+│   │   ├── Stock
+│   │   │   ├── Wallpapers
+│   │   │   ├── Graphics
+│   │   │   └── Icons
+│   │   └── Screenshots
+│   │       ├── Desktop
+│   │       ├── Mobile
+│   │       └── Web
+│   ├── Audio
+│   │   ├── Music
+│   │   │   ├── Albums
+│   │   │   ├── Playlists
+│   │   │   └── Singles
+│   │   ├── Podcasts
+│   │   │   ├── Educational
+│   │   │   ├── Entertainment
+│   │   │   └── News
+│   │   ├── Audiobooks
+│   │   │   ├── Fiction
+│   │   │   └── Non-Fiction
+│   │   ├── Samples
+│   │   │   ├── Effects
+│   │   │   ├── Instruments
+│   │   │   └── Voice
+│   │   └── Recordings
+│   │       ├── Meetings
+│   │       ├── Notes
+│   │       └── Events
+│   └── Video
+│       ├── Movies
+│       │   ├── Action
+│       │   ├── Comedy
+│       │   ├── Drama
+│       │   └── SciFi
+│       ├── TV Shows
+│       │   ├── Comedy
+│       │   ├── Drama
+│       │   ├── SciFi
+│       │   └── Documentary
+│       ├── Personal
+│       │   ├── Family
+│       │   ├── Travel
+│       │   └── Events
+│       ├── Tutorials
+│       │   ├── Software
+│       │   ├── Skills
+│       │   └── DIY
+│       └── Raw
+│           ├── Footage
+│           ├── Timelapses
+│           └── B-Roll
+├── Configs
+│   ├── Apps
+│   │   ├── VSCode
+│   │   ├── Browser
+│   │   └── Adobe
+│   ├── Terminal
+│   │   ├── Zsh
+│   │   ├── Bash
+│   │   ├── Aliases
+│   │   └── Scripts
+│   └── System
+│       ├── macOS
+│       ├── Linux
+│       └── Windows
+├── Scripts
+│   ├── Automation
+│   │   ├── System
+│   │   ├── Files
+│   │   ├── Network
+│   │   └── Media
+│   ├── Utilities
+│   │   ├── File Management
+│   │   ├── Conversion
+│   │   ├── Backup
+│   │   └── Search
+│   └── Development
+│       ├── Python
+│       ├── JavaScript
+│       ├── Shell
+│       └── Go
+├── Backups
+│   ├── System
+│   │   ├── OS
+│   │   ├── Applications
+│   │   └── Configs
+│   ├── Personal
+│   │   ├── Documents
+│   │   ├── Photos
+│   │   └── Projects
+│   ├── Work
+│   │   ├── Documents
+│   │   ├── Projects
+│   │   └── References
+│   └── Archives
+│       ├── 2022
+│       ├── 2023
+│       └── 2024
+├── Downloads
+│   ├── Applications
+│   │   ├── macOS
+│   │   ├── Windows
+│   │   └── Linux
+│   ├── Documents
+│   │   ├── Work
+│   │   ├── Personal
+│   │   └── Reference
+│   ├── Media
+│   │   ├── Images
+│   │   ├── Audio
+│   │   └── Video
+│   ├── Archives
+│   │   ├── Compressed
+│   │   └── Packages
+│   └── Temp
+│       ├── Today
+│       ├── Week
+│       └── Month
+├── Archives
+│   ├── Documents
+│   │   ├── 2022
+│   │   ├── 2023
+│   │   └── 2024
+│   ├── Projects
+│   │   ├── Completed
+│   │   ├── Abandoned
+│   │   └── Reference
+│   ├── Media
+│   │   ├── Images
+│   │   ├── Audio
+│   │   └── Video
+│   └── Versions
+│       ├── Documents
+│       ├── Code
+│       └── Designs
+└── Jump (Contains Symlinks)
+    ├── Documents
+    │   ├── Personal -> /Documents/Personal
+    │   └── Work -> /Documents/Work
+    ├── Projects
+    │   └── Active -> /Projects/Active
+    ├── Media
+    │   ├── Images -> /Media/Images
+    │   ├── Audio -> /Media/Audio
+    │   └── Video -> /Media/Video
+    ├── Apps
+    ├── Configs
+    ├── Locations
+    └── Shortcuts

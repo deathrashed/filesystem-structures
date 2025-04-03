@@ -1,0 +1,237 @@
+Home Directory (Deep Hierarchy - First 5 levels shown for clarity)
+├── Documents
+│   ├── Personal
+│   │   ├── Identity
+│   │   ├── Health
+│   │   │   ├── Medical Records
+│   │   │   │   ├── Test Results
+│   │   │   │   └── Doctor Visits
+│   │   │   └── Fitness
+│   │   │       ├── Workout Plans
+│   │   │       │   ├── Strength
+│   │   │       │   └── Cardio
+│   │   │       └── ...
+│   │   ├── Education
+│   │   ├── Legal
+│   │   └── Property
+│   ├── Work
+│   │   ├── Projects
+│   │   │   ├── Active
+│   │   │   │   ├── Project Alpha
+│   │   │   │   └── Project Beta
+│   │   │   ├── Planning
+│   │   │   │   └── Research
+│   │   │   └── Archived
+│   │   ├── Administrative
+│   │   ├── Client Files
+│   │   ├── Marketing
+│   │   └── Reports
+│   └── ...
+
+├── Media
+│   ├── Photos
+│   │   ├── Family
+│   │   │   ├── Events
+│   │   │   │   ├── Birthdays
+│   │   │   │   └── Holidays
+│   │   │   └── Portraits
+│   │   ├── Travel
+│   │   │   ├── Domestic
+│   │   │   │   ├── East Coast
+│   │   │   │   └── West Coast
+│   │   │   └── International
+│   │   │       ├── Europe
+│   │   │       │   └── Italy
+│   │   │       └── ...
+│   │   └── ...
+│   ├── Videos
+│   │   ├── Family
+│   │   │   ├── Celebrations
+│   │   │   │   ├── Birthdays
+│   │   │   │   │   ├── Kids
+│   │   │   │   │   └── Adults
+│   │   │   │   └── Holidays
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+
+├── Projects
+│   ├── Active
+│   │   ├── Project Alpha
+│   │   │   ├── Planning
+│   │   │   │   └── Research
+│   │   │   ├── Design
+│   │   │   │   └── Mockups
+│   │   │   └── ...
+│   │   └── ...
+│   ├── Planning
+│   │   ├── Research
+│   │   │   ├── Market Analysis
+│   │   │   │   └── Competitors
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+
+├── Applications
+│   ├── Apple
+│   │   ├── Final Cut Pro
+│   │   │   ├── Projects
+│   │   │   │   └── Active
+│   │   │   └── ...
+│   │   ├── Logic Pro
+│   │   │   ├── Projects
+│   │   │   │   └── Songs
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+
+├── Development
+│   ├── Projects
+│   │   ├── Web
+│   │   │   ├── Frontend
+│   │   │   │   └── React
+│   │   │   └── Backend
+│   │   │       └── ...
+│   │   └── ...
+│   └── ...
+
+├── Data
+│   ├── Datasets
+│   │   ├── Public
+│   │   │   ├── Government
+│   │   │   │   └── Census
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+
+├── Cloud
+│   ├── iCloud
+│   │   ├── Drive
+│   │   │   ├── Documents
+│   │   │   │   └── Work
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+
+├── Configuration
+│   ├── System
+│   │   ├── macOS
+│   │   │   ├── Preferences
+│   │   │   │   └── Keyboard
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+
+├── Learning
+│   ├── Courses
+│   │   ├── Programming
+│   │   │   ├── Web Development
+│   │   │   │   └── Frontend
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+
+├── Backups
+│   ├── System
+│   │   ├── macOS
+│   │   │   ├── Full
+│   │   │   │   └── 2025-Q1
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+
+├── Automation
+│   ├── System
+│   │   ├── Maintenance
+│   │   │   ├── Daily
+│   │   │   │   └── Morning
+│   │   │   └── Weekly
+│   │   │       └── Weekend
+│   │   └── ...
+│   └── ...
+
+├── Security
+│   ├── Passwords
+│   │   ├── Vault
+│   │   │   ├── Personal
+│   │   │   │   └── Critical
+│   │   │   └── Work
+│   │   │       └── Clients
+│   │   └── ...
+│   └── ...
+
+├── Archives
+│   ├── Projects
+│   │   ├── 2023
+│   │   │   ├── Q1
+│   │   │   │   └── Project Alpha
+│   │   │   └── Q2
+│   │   │       └── Project Beta
+│   │   └── ...
+│   └── ...
+
+├── References
+│   ├── Documentation
+│   │   ├── Software
+│   │   │   ├── Adobe
+│   │   │   │   └── Photoshop
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+
+├── Resources
+│   ├── Design
+│   │   ├── Icons
+│   │   │   ├── UI
+│   │   │   │   └── Navigation
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+
+├── Templates
+│   ├── Documents
+│   │   ├── Business
+│   │   │   ├── Proposals
+│   │   │   │   └── Client
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+
+├── Utilities
+│   ├── System
+│   │   ├── Monitoring
+│   │   │   ├── Performance
+│   │   │   │   └── CPU
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+
+├── Downloads
+│   ├── Software
+│   │   ├── Applications
+│   │   │   ├── macOS
+│   │   │   │   └── Productivity
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+
+├── Temporary
+│   ├── Today
+│   │   ├── Work
+│   │   │   ├── Projects
+│   │   │   │   └── Alpha
+│   │   │   └── ...
+│   │   └── ...
+│   └── ...
+
+└── Jump (Contains Symlinks)
+    ├── Work Documents -> /Documents/Work
+    ├── Personal Documents -> /Documents/Personal
+    ├── Active Projects -> /Projects/Active
+    ├── Photos -> /Media/Photos
+    ├── Videos -> /Media/Videos
+    ├── Apple Apps -> /Applications/Apple
+    ├── Development Projects -> /Development/Projects
+    ├── Templates -> /Templates
+    ├── iCloud -> /Cloud/iCloud
+    └── Today's Files -> /Temporary/Today

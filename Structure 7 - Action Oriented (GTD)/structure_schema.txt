@@ -1,0 +1,68 @@
+Home Directory
+├── 00_Inbox (Temporary storage for unprocessed files)
+├── 01_Action_Pending (Requires specific action soon)
+│   ├── Bills_To_Pay
+│   ├── Documents_To_Review
+│   ├── Emails_To_Send
+│   ├── Forms_To_Fill
+│   └── Calls_To_Make
+├── 02_Active_Projects (Current work with defined goals)
+│   ├── Project_Website_Launch
+│   │   ├── 01_Planning
+│   │   ├── 02_Content
+│   │   ├── 03_Design
+│   │   ├── 04_Development
+│   │   ├── 05_Testing
+│   │   └── 06_Launch_Plan
+│   ├── Project_Home_Renovation
+│   │   ├── 01_Ideas
+│   │   ├── 02_Budget
+│   │   ├── 03_Contractor_Quotes
+│   │   ├── 04_Materials
+│   │   ├── 05_Permits
+│   │   └── 06_Timeline
+│   ├── Project_Q2_Report
+│   │   ├── 01_Data_Collection
+│   │   ├── 02_Analysis
+│   │   ├── 03_Graphics
+│   │   ├── 04_Draft
+│   │   ├── 05_Review
+│   │   └── 06_Final_Presentation
+│   └── Project_Learn_Python
+│       ├── 01_Course_Materials
+│       ├── 02_Practice_Exercises
+│       ├── 03_Notes
+│       ├── 04_Projects
+│       └── 05_Resources
+├── 03_Reference (Information requiring no action)
+│   ├── Software_Licenses
+│   ├── Contact_Information
+│   ├── Account_Information
+│   ├── Manuals
+│   ├── Guides_Tutorials
+│   ├── Templates
+│   ├── Meeting_Notes
+│   ├── Research_Papers
+│   ├── Home_Information
+│   └── Work_Documentation
+├── 04_Someday_Maybe (Ideas and possibilities for the future)
+│   ├── Future_Project_Ideas
+│   ├── Vacation_Ideas
+│   ├── Books_To_Read
+│   ├── Learning_Opportunities
+│   ├── Business_Ideas
+│   ├── Home_Improvement_Ideas
+│   └── Gift_Ideas
+├── 05_Archive (Completed work and inactive reference)
+│   ├── Completed_Projects_2024
+│   │   ├── Website_Redesign_Client_A
+│   │   └── Product_Launch_Q1
+│   ├── Completed_Projects_2023
+│   │   ├── Office_Setup
+│   │   └── Annual_Report
+│   ├── Old_Reference_2024
+│   ├── Old_Reference_2023
+│   └── Personal_Archive
+│       ├── Previous_Home
+│       └── Previous_Job
+└── Downloads (Default browser download location)

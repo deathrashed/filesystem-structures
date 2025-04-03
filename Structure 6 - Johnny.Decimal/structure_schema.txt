@@ -1,0 +1,100 @@
+Home Directory
+├── 10-19 Finance
+│   ├── 11 Tax Returns
+│   │   ├── 11.01 Tax Return 2024
+│   │   └── 11.02 Tax Receipts 2024
+│   ├── 12 Budgeting
+│   │   ├── 12.01 Monthly Budget Templates
+│   │   └── 12.02 Expense Tracking
+│   ├── 13 Investments
+│   │   ├── 13.01 Stock Portfolio
+│   │   └── 13.02 Retirement Accounts
+│   └── 14 Insurance
+│       ├── 14.01 Health Insurance
+│       └── 14.02 Home Insurance
+├── 20-29 Work Client A
+│   ├── 21 Project Phoenix
+│   │   ├── 21.01 Project Brief
+│   │   ├── 21.02 Design Assets
+│   │   └── 21.03 Development
+│   ├── 22 Project Quantum
+│   │   ├── 22.01 Requirements
+│   │   └── 22.02 Prototypes
+│   └── 23 Admin
+│       ├── 23.01 Contracts
+│       ├── 23.02 Invoices
+│       └── 23.03 Contact Information
+├── 30-39 Work Client B
+│   ├── 31 Website Redesign
+│   │   ├── 31.01 Information Architecture
+│   │   ├── 31.02 Visual Design
+│   │   └── 31.03 Content
+│   ├── 32 Marketing Campaign
+│   │   ├── 32.01 Social Media
+│   │   └── 32.02 Email Templates
+│   └── 33 Admin
+│       ├── 33.01 Agreements
+│       └── 33.02 Financials
+├── 40-49 Personal Development
+│   ├── 41 Courses
+│   │   ├── 41.01 Python Masterclass
+│   │   ├── 41.02 UX Design Fundamentals
+│   │   └── 41.03 Project Management
+│   ├── 42 Books
+│   │   ├── 42.01 Technical Books
+│   │   ├── 42.02 Business Books
+│   │   └── 42.03 Personal Growth
+│   └── 43 Side Projects
+│       ├── 43.01 Mobile App Idea
+│       └── 43.02 Blog Articles
+├── 50-59 Home & Family
+│   ├── 51 House Maintenance
+│   │   ├── 51.01 Renovation Plans
+│   │   ├── 51.02 Repair Records
+│   │   └── 51.03 Service Providers
+│   ├── 52 Family Documents
+│   │   ├── 52.01 ID Documents
+│   │   └── 52.02 Medical Records
+│   └── 53 Travel & Holidays
+│       ├── 53.01 Trip Planning
+│       └── 53.02 Past Vacations
+├── 60-69 Health & Fitness
+│   ├── 61 Workout Plans
+│   │   ├── 61.01 Strength Training
+│   │   └── 61.02 Cardio
+│   ├── 62 Nutrition
+│   │   ├── 62.01 Meal Plans
+│   │   └── 62.02 Recipes
+│   └── 63 Health Records
+│       ├── 63.01 Test Results
+│       └── 63.02 Doctor Visits
+├── 70-79 Hobbies & Recreation
+│   ├── 71 Photography
+│   │   ├── 71.01 Camera Gear
+│   │   └── 71.02 Technique Guides
+│   ├── 72 Cooking
+│   │   ├── 72.01 Favorite Recipes
+│   │   └── 72.02 Cooking Techniques
+│   └── 73 Gaming
+│       ├── 73.01 Game Guides
+│       └── 73.02 Game Saves
+├── 80-89 Archives
+│   ├── 81 Previous Jobs
+│   │   ├── 81.01 Company X 2022-2023
+│   │   └── 81.02 Company Y 2020-2022
+│   ├── 82 Completed Projects
+│   │   ├── 82.01 Website Rebuild 2023
+│   │   └── 82.02 Kitchen Renovation 2022
+│   └── 83 Old Records
+│       ├── 83.01 Tax Returns Pre-2023
+│       └── 83.02 Previous Residence
+└── 90-99 Meta System
+    ├── 91 System Documentation
+    │   ├── 91.01 Johnny.Decimal Index
+    │   └── 91.02 Setup Documentation
+    ├── 92 Templates
+    │   ├── 92.01 Document Templates
+    │   └── 92.02 Project Templates
+    └── 93 Backups
+        ├── 93.01 Backup Configuration
+        └── 93.02 Backup Verification

@@ -1,0 +1,71 @@
+Home Directory
+├── Documents
+│   ├── Personal
+│   │   ├── ID
+│   │   ├── Financial
+│   │   └── Health
+│   ├── Work
+│   │   ├── Projects
+│   │   ├── References
+│   │   └── Meetings
+│   └── Reference
+│       ├── Manuals
+│       ├── Tutorials
+│       └── Templates
+├── Downloads
+│   ├── Applications
+│   ├── Documents
+│   ├── Media
+│   ├── Archives
+│   └── Temp
+├── Pictures
+│   ├── Personal
+│   │   ├── Family
+│   │   ├── Travel
+│   │   └── Events
+│   ├── Work
+│   │   ├── Projects
+│   │   └── Marketing
+│   ├── Stock
+│   │   ├── Wallpapers
+│   │   └── Graphics
+│   └── Screenshots
+├── Music
+│   ├── Albums
+│   │   ├── By Artist
+│   │   └── By Genre
+│   ├── Playlists
+│   │   ├── Personal
+│   │   └── Work
+│   ├── Podcasts
+│   └── Audiobooks
+├── Videos
+│   ├── Movies
+│   │   ├── Action
+│   │   ├── Comedy
+│   │   └── Drama
+│   ├── TV Shows
+│   │   ├── Comedy
+│   │   └── Drama
+│   ├── Personal
+│   │   ├── Family
+│   │   └── Travel
+│   └── Tutorials
+├── Projects
+│   ├── Active
+│   ├── Archive
+│   └── Resources
+├── Backups
+│   ├── Documents
+│   ├── Photos
+│   ├── System
+│   └── Applications
+├── Scripts
+│   ├── Automation
+│   ├── Utilities
+│   └── Development
+└── Archives
+    ├── 2023
+    ├── 2024
+    ├── Old Projects
+    └── Old Documents

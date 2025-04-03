@@ -1,0 +1,54 @@
+Home Directory
+├── 1_Projects (Time-limited undertakings with specific goals)
+│   ├── Client_Acme_Website
+│   ├── Home_Renovation
+│   ├── Learn_Python
+│   ├── Quarterly_Budget_Review
+│   └── Family_Vacation_Planning
+├── 2_Areas (Ongoing responsibilities with standards to maintain)
+│   ├── Finances
+│   │   ├── Taxes
+│   │   ├── Investments
+│   │   └── Budgeting
+│   ├── Health_Fitness
+│   │   ├── Workouts
+│   │   ├── Medical
+│   │   └── Nutrition
+│   ├── Work_Responsibilities
+│   │   ├── Team_Management
+│   │   ├── Product_Roadmap
+│   │   └── Client_Relationships
+│   └── Home_Management
+│       ├── Maintenance
+│       ├── Utilities
+│       └── Inventory
+├── 3_Resources (Topics of ongoing interest)
+│   ├── Web_Design
+│   │   ├── Inspirations
+│   │   ├── Tutorials
+│   │   └── Tools
+│   ├── Cooking
+│   │   ├── Recipes
+│   │   ├── Techniques
+│   │   └── Meal_Plans
+│   ├── Software_Development
+│   │   ├── Python
+│   │   ├── JavaScript
+│   │   └── Docker
+│   └── Travel
+│       ├── Destinations
+│       ├── Packing_Lists
+│       └── Travel_Hacks
+├── 4_Archives (Inactive items from other categories)
+│   ├── Completed_Projects
+│   │   ├── 2023_Client_Branding_Project
+│   │   ├── 2024_App_Development
+│   │   └── 2024_Home_Office_Setup
+│   ├── Old_Areas
+│   │   ├── Previous_Job_Responsibilities
+│   │   └── Previous_Apartment_Info
+│   └── Old_Resources
+│       ├── Outdated_Software_Guides
+│       └── Past_Research_Topics
+├── _Inbox (Files to be processed and categorized)
+└── Downloads (Default browser download location)

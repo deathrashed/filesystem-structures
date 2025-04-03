@@ -1,0 +1,161 @@
+Home Directory
+├── Audio
+│   ├── Music
+│   │   ├── Albums
+│   │   ├── Singles
+│   │   ├── Playlists
+│   │   ├── Artists
+│   │   └── Genres
+│   ├── Production
+│   │   ├── Projects
+│   │   ├── Samples
+│   │   ├── Stems
+│   │   ├── Presets
+│   │   ├── Renders
+│   │   └── Backup
+│   ├── Sound Effects
+│   │   ├── Ambience
+│   │   ├── Foley
+│   │   ├── UI
+│   │   ├── Musical
+│   │   └── Nature
+│   ├── Podcasts
+│   │   ├── Educational
+│   │   ├── Entertainment
+│   │   ├── News
+│   │   ├── Personal
+│   │   └── Projects
+│   └── Recordings
+│       ├── Voice
+│       ├── Field
+│       ├── Interviews
+│       ├── Meetings
+│       └── Notes
+├── Video
+│   ├── Projects
+│   │   ├── Active
+│   │   ├── Completed
+│   │   ├── Archive
+│   │   ├── Clients
+│   │   └── Personal
+│   ├── Source
+│   │   ├── Raw Footage
+│   │   ├── B Roll
+│   │   ├── Stock
+│   │   ├── Timelapses
+│   │   └── Screen Recordings
+│   ├── Assets
+│   │   ├── Motion Graphics
+│   │   ├── Lower Thirds
+│   │   ├── Transitions
+│   │   ├── Title Cards
+│   │   ├── Sound Effects
+│   │   └── Music
+│   ├── Exports
+│   │   ├── High Quality
+│   │   ├── Web Optimized
+│   │   ├── Social Media
+│   │   ├── Client Deliverables
+│   │   ├── Drafts
+│   │   └── Clips
+│   └── Media
+│       ├── Movies
+│       ├── TV Shows
+│       ├── Tutorials
+│       ├── Purchased
+│       └── Documentaries
+├── Images
+│   ├── Photography
+│   │   ├── Raw
+│   │   ├── Edited
+│   │   ├── Exported
+│   │   ├── Projects
+│   │   ├── Personal
+│   │   └── Client
+│   ├── Graphics
+│   │   ├── Vectors
+│   │   ├── Icons
+│   │   ├── UI Elements
+│   │   ├── Logos
+│   │   ├── Mockups
+│   │   └── Templates
+│   ├── Stock
+│   │   ├── Photography
+│   │   ├── Illustrations
+│   │   ├── Textures
+│   │   ├── Backgrounds
+│   │   ├── Icons
+│   │   └── Mockups
+│   └── Projects
+│       ├── Client
+│       ├── Personal
+│       ├── Archive
+│       ├── WIP
+│       └── Collaborative
+├── Graphics
+│   ├── 3D
+│   │   ├── Models
+│   │   ├── Textures
+│   │   ├── Projects
+│   │   ├── Renders
+│   │   ├── References
+│   │   └── Assets
+│   ├── Design
+│   │   ├── Branding
+│   │   ├── Web
+│   │   ├── Print
+│   │   ├── Packaging
+│   │   ├── UI UX
+│   │   └── Illustrations
+│   └── Assets
+│       ├── Fonts
+│       ├── Brushes
+│       ├── Patterns
+│       ├── Textures
+│       ├── Templates
+│       └── Plugins
+├── Projects
+│   ├── Current
+│   │   ├── Client
+│   │   ├── Personal
+│   │   ├── Collaborative
+│   │   ├── Experimental
+│   │   └── Learning
+│   ├── Archive
+│   │   ├── 2022
+│   │   ├── 2023
+│   │   ├── 2024
+│   │   ├── Client
+│   │   └── Personal
+│   └── Resources
+│       ├── Stock
+│       ├── Templates
+│       ├── References
+│       ├── Samples
+│       └── Fonts
+├── Applications
+│   ├── Adobe
+│   ├── Audio
+│   ├── Video
+│   ├── Graphics
+│   ├── 3D
+│   └── Utilities
+├── Tutorials
+│   ├── Video
+│   ├── Audio
+│   ├── Photography
+│   ├── Graphics
+│   ├── 3D
+│   └── Software
+├── Archive
+│   ├── Audio
+│   ├── Video
+│   ├── Images
+│   ├── Graphics
+│   └── Projects
+└── Backups
+    ├── Projects
+    ├── Libraries
+    ├── Work In Progress
+    ├── Applications
+    └── System
