@@ -204,14 +204,13 @@ echo "Intermediate directory structure created successfully!"
 ```
 
 ## 🔄 Migration Strategy
-      <ol>
-        <li><b>Start with top-level directories</b> - Create the main structure first</li>
-        <li><b>Move content gradually</b> - Transfer files in batches to avoid overwhelming yourself</li>
-        <li><b>Focus on active files first</b> - Start with files you use regularly</li>
-        <li><b>Use the Projects directory</b> - Move project work there immediately</li>
-        <li><b>Create migration staging</b> - Use the Downloads/Temp folder to temporarily store files during reorganization</li>
-        <li><b>Schedule archiving sessions</b> - Set aside time to move older files to Archives</li>
-      </ol>
+1. Start with top-level directories - Create the main structure first
+2. Move content gradually - Transfer files in batches to avoid overwhelming yourself
+3. Focus on active files first - Start with files you use regularly
+4. Use the Projects directory - Move project work there immediately
+5. Create migration staging - Use the Downloads/Temp folder to temporarily store files during reorganization
+6. Schedule archiving sessions - Set aside time to move older files to Archives
+
 ## ✨ Key Advantages
 
 1. **Balance of Simplicity and Detail** - Provides more organization than basic structures without overwhelming complexity
