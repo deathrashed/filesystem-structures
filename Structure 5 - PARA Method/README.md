@@ -262,7 +262,7 @@ mkdir -p ~/Archives/Resources
 
 <div align="center">
   <a href="https://www.buildingasecondbrain.com/">
-    <img src="https://i.imgur.com/qHAcfSX.jpg" alt="Building a Second Brain Book Cover" width="250px">
+    <img src="" alt="Building a Second Brain Book Cover" width="250px">
   </a>
 </div>
 
