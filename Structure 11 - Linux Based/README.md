@@ -178,12 +178,11 @@ This structure follows the [XDG Base Directory Specification](https://specificat
 
 ## 💡 Implementation Tips
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔧 Getting Started</h3>
-      <p>Basic setup commands:</p>
-      <pre>
+### 🔧 Getting Started
+
+Basic setup commands:
+
+```bash
 #!/bin/bash
 # Create basic Linux directory structure
 
@@ -199,20 +198,21 @@ mkdir -p ~/.cache
 echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
 
 echo "Basic Linux directory structure created!"
-      </pre>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Dotfiles Management</h3>
-      <p>For configuration management:</p>
-      <ul>
-        <li><b>GNU Stow</b> - Symlink farm manager for dotfiles</li>
-        <li><b>Chezmoi</b> - Securely manage dotfiles across multiple machines</li>
-        <li><b>Bare Git Repository</b> - Use git directly for dotfile management</li>
-        <li><b>Ansible</b> - For more complex environment setup</li>
-        <li><b>Shell Scripts</b> - Custom scripts for setup and synchronization</li>
-      </ul>
-      <p>Example with GNU Stow:</p>
-      <pre>
+```
+
+### ⚙️ Dotfiles Management
+
+For configuration management:
+
+- **GNU Stow** - Symlink farm manager for dotfiles
+- **Chezmoi** - Securely manage dotfiles across multiple machines
+- **Bare Git Repository** - Use git directly for dotfile management
+- **Ansible** - For more complex environment setup
+- **Shell Scripts** - Custom scripts for setup and synchronization
+
+Example with GNU Stow:
+
+```bash
 # Organize configs in ~/dotfiles
 mkdir -p ~/dotfiles/{bash,nvim,i3}
 
@@ -228,10 +228,7 @@ mv ~/dotfiles/nvim/nvim ~/dotfiles/nvim/.config/
 cd ~/dotfiles
 stow nvim   # Creates ~/.config/nvim symlink
 stow i3     # Creates ~/.config/i3 symlink
-      </pre>
-    </td>
-  </tr>
-</table>
+```
 
 ## 🔍 Linux vs. Other Systems
 
