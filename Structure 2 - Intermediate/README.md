@@ -98,6 +98,7 @@ This structure adds several key top-level directories to the standard layout whi
   <li><b>Old Documents</b> - Archived documents</li>
 </ul>
 </details>
+
 **And enhanced versions of standard directories:**
 
 <details>
@@ -204,12 +205,12 @@ echo "Intermediate directory structure created successfully!"
 ```
 
 ## 🔄 Migration Strategy
-1. Start with top-level directories - Create the main structure first
-2. Move content gradually - Transfer files in batches to avoid overwhelming yourself
-3. Focus on active files first - Start with files you use regularly
-4. Use the Projects directory - Move project work there immediately
-5. Create migration staging - Use the Downloads/Temp folder to temporarily store files during reorganization
-6. Schedule archiving sessions - Set aside time to move older files to Archives
+1. **Start with top-level directories** - Create the main structure first
+2. **Move content gradually** - Transfer files in batches to avoid overwhelming yourself
+3. **Focus on active files first** - Start with files you use regularly
+4. **Use the Projects directory** - Move project work there immediately
+5. **Create migration staging** - Use the Downloads/Temp folder to temporarily store files during reorganization
+6. **Schedule archiving sessions** - Set aside time to move older files to Archives
 
 ## ✨ Key Advantages
 
