@@ -4,32 +4,53 @@
   
   [![Methodology](https://img.shields.io/badge/Methodology-PARA-purple?style=for-the-badge)](https://fortelabs.co/blog/para/)
   [![Creator](https://img.shields.io/badge/Created_By-Tiago_Forte-blue?style=for-the-badge)](https://www.fortelabs.co/)
-  [![Focus](https://img.shields.io/badge/Focus-Actionability-orange?style=for-the-badge)](https://github.com/username/filesystem-structures)
-  [![Complexity](https://img.shields.io/badge/Complexity-Intermediate-yellow?style=for-the-badge)](https://github.com/username/filesystem-structures)
+  [![Focus](https://img.shields.io/badge/Focus-Actionability-orange?style=for-the-badge)](https://github.com/deathrashed/filesystem-structures)
+  [![Complexity](https://img.shields.io/badge/Complexity-Intermediate-yellow?style=for-the-badge)](https://github.com/deathrashed/filesystem-structures)
 
   **A systematic approach to organizing digital information based on actionability and relevance rather than by topic or category.**
 </div>
 
+Here's a GitHub-compatible version with a text-based visualization instead of an image:
+
+
 ## 🧩 Core Components
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="" alt="https://i.ibb.co/NdCBKk2Y/1-LXUUWow-Gg1-unhsy-p-ZBUg.png" width="100%">
-      <p align="center"><i>Conceptual visualization of the PARA method hierarchy</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>The Four Categories</h3>
-      <ol>
-        <li><b>Projects</b> - Tasks with specific goals and deadlines</li>
-        <li><b>Areas</b> - Ongoing responsibilities with standards to maintain</li>
-        <li><b>Resources</b> - Topics of interest for future reference</li>
-        <li><b>Archives</b> - Inactive items from the other categories</li>
-      </ol>
-      <p>Plus the <b>Inbox</b> - Temporary holding area for unprocessed items</p>
-    </td>
-  </tr>
-</table>
+### The Four Categories
+
+```mermaid
+graph TD
+    Inbox(Inbox) --> Projects
+    Inbox --> Areas
+    Inbox --> Resources
+
+    Projects --> Archives
+    Areas --> Archives
+    Resources --> Archives
+
+    classDef inbox fill:#f9f9f9,stroke:#333,stroke-width:1px;
+    classDef active fill:#d4f1f9,stroke:#333,stroke-width:1px;
+    classDef archive fill:#ececec,stroke:#333,stroke-width:1px;
+    
+    class Inbox inbox;
+    class Projects,Areas,Resources active;
+    class Archives archive;
+```
+
+1. **Projects** - Tasks with specific goals and deadlines
+2. **Areas** - Ongoing responsibilities with standards to maintain
+3. **Resources** - Topics of interest for future reference
+4. **Archives** - Inactive items from the other categories
+
+Plus the **Inbox** - Temporary holding area for unprocessed items
+
+---
+
+**PARA Flow:**
+```
+NEW ITEMS → Inbox → Sort into → Projects/Areas/Resources → Eventually → Archives
+```
+
+The PARA method creates a natural progression where items typically enter through your Inbox, get processed into either Projects (if actionable with deadlines), Areas (if ongoing responsibility), or Resources (if reference material), and eventually end up in Archives when no longer active.
 
 ## 🔍 Category Definitions
 
@@ -239,14 +260,25 @@ mkdir -p ~/Archives/Resources
 
 ## 📚 Origin & Resources
 
-![Building a Second Brain Book Cover]()
+<div align="center">
+  <a href="https://www.buildingasecondbrain.com/">
+    <img src="https://i.imgur.com/qHAcfSX.jpg" alt="Building a Second Brain Book Cover" width="250px">
+  </a>
+</div>
 
-The PARA method was created by productivity expert Tiago Forte as part of his "Building a Second Brain" methodology for personal knowledge management.
+### About PARA Method
 
-**Learn more:**
-- [The PARA Method on Forte Labs](https://fortelabs.co/blog/para/)
-- [Building a Second Brain Book](https://www.buildingasecondbrain.com/)
-- [PARA Method Explained (YouTube)](https://www.youtube.com/watch?v=SjZSy8s2VEE)
+The PARA method was created by productivity expert [Tiago Forte](https://fortelabs.com/about/) as part of his "Building a Second Brain" methodology for personal knowledge management. It focuses on organizing information by actionability rather than by subject.
+
+> "The most important question when it comes to organizing information is not _where_ to put something, but _how_ you want to use it."
+> — Tiago Forte
+
+### Key Resources
+
+- 📝 [The PARA Method on Forte Labs](https://fortelabs.co/blog/para/) - Original article explaining the system
+- 📘 [Building a Second Brain Book](https://www.buildingasecondbrain.com/) - Comprehensive guide to the methodology
+- 🎬 [PARA Method Explained (YouTube)](https://www.youtube.com/watch?v=SjZSy8s2VEE) - Visual explanation of the system
+- 🧰 [PARA in Practice](https://fortelabs.com/blog/para-in-practice-an-interview-with-a-new-para-convert/) - Real-world implementation examples
 
 ## 🔄 Workflow Examples
 
