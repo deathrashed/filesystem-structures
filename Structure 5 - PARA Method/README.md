@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="" alt="[PARA Method Visualization](https://i.ibb.co/NdCBKk2Y/1-LXUUWow-Gg1-unhsy-p-ZBUg.png)" width="100%">
+      <img src="" alt="https://i.ibb.co/NdCBKk2Y/1-LXUUWow-Gg1-unhsy-p-ZBUg.png" width="100%">
       <p align="center"><i>Conceptual visualization of the PARA method hierarchy</i></p>
     </td>
     <td width="50%" valign="top">
@@ -239,7 +239,7 @@ mkdir -p ~/Archives/Resources
 
 ## 📚 Origin & Resources
 
-![Building a Second Brain Book Cover](https://m.media-amazon.com/images/I/71Yh-rBj9rL.jpg)
+![Building a Second Brain Book Cover]()
 
 The PARA method was created by productivity expert Tiago Forte as part of his "Building a Second Brain" methodology for personal knowledge management.
 
