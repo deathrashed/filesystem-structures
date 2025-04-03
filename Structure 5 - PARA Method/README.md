@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://i.imgur.com/HzVMn32.png" alt="PARA Method Visualization" width="100%">
+      <img src="" alt="[PARA Method Visualization](https://miro.medium.com/v2/resize:fit:949/1*LXUUWowGg1_unhsy_pZBUg.png)" width="100%">
       <p align="center"><i>Conceptual visualization of the PARA method hierarchy</i></p>
     </td>
     <td width="50%" valign="top">
@@ -239,23 +239,14 @@ mkdir -p ~/Archives/Resources
 
 ## 📚 Origin & Resources
 
-<table>
-  <tr>
-    <td width="30%" valign="top">
-      <img src="https://i.imgur.com/qHAcfSX.jpg" alt="Building a Second Brain Book Cover" width="100%">
-    </td>
-    <td width="70%" valign="top">
-      <p>The PARA method was created by productivity expert Tiago Forte as part of his "Building a Second Brain" methodology for personal knowledge management.</p>
-      
-      <p><b>Learn more:</b></p>
-      <ul>
-        <li><a href="https://fortelabs.co/blog/para/">The PARA Method on Forte Labs</a></li>
-        <li><a href="https://www.buildingasecondbrain.com/">Building a Second Brain Book</a></li>
-        <li><a href="https://www.youtube.com/watch?v=SjZSy8s2VEE">PARA Method Explained (YouTube)</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+![Building a Second Brain Book Cover](https://i.imgur.com/qHAcfSX.jpg)
+
+The PARA method was created by productivity expert Tiago Forte as part of his "Building a Second Brain" methodology for personal knowledge management.
+
+**Learn more:**
+- [The PARA Method on Forte Labs](https://fortelabs.co/blog/para/)
+- [Building a Second Brain Book](https://www.buildingasecondbrain.com/)
+- [PARA Method Explained (YouTube)](https://www.youtube.com/watch?v=SjZSy8s2VEE)
 
 ## 🔄 Workflow Examples
 
