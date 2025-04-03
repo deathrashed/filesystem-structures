@@ -2,10 +2,10 @@
 
 <div align="center">
   
-  [![Complexity](https://img.shields.io/badge/Complexity-Advanced-red?style=for-the-badge)](https://github.com/username/filesystem-structures)
-  [![Target User](https://img.shields.io/badge/For-Power_Users-purple?style=for-the-badge)](https://github.com/username/filesystem-structures)
-  [![Setup Time](https://img.shields.io/badge/Setup_Time-2_Hours-orange?style=for-the-badge)](https://github.com/username/filesystem-structures)
-  [![Features](https://img.shields.io/badge/Features-Symlinks_|_Deep_Hierarchy-blue?style=for-the-badge)](https://github.com/username/filesystem-structures)
+  [![Complexity](https://img.shields.io/badge/Complexity-Advanced-red?style=for-the-badge)](https://github.com/deathrashed/filesystem-structures)
+  [![Target User](https://img.shields.io/badge/For-Power_Users-purple?style=for-the-badge)](https://github.com/deathrashed/filesystem-structures)
+  [![Setup Time](https://img.shields.io/badge/Setup_Time-2_Hours-orange?style=for-the-badge)](https://github.com/deathrashed/filesystem-structures)
+  [![Features](https://img.shields.io/badge/Features-Symlinks_|_Deep_Hierarchy-blue?style=for-the-badge)](https://github.com/deathrashed/filesystem-structures)
 
   **A sophisticated organization system designed for power users who need granular control, smart cross-referencing, and separation of content types. Features symlinks, specialized directories, and deep hierarchical organization.**
 </div>
@@ -195,20 +195,20 @@ This structure uses specialized top-level directories to provide clear separatio
 <ul>
   <li><b>Documents</b> - Document symlinks
     <ul>
-      <li><b>Personal</b> -> /Documents/Personal</li>
-      <li><b>Work</b> -> /Documents/Work</li>
+      <li><b>Personal</b> → /Documents/Personal</li>
+      <li><b>Work</b> → /Documents/Work</li>
     </ul>
   </li>
   <li><b>Projects</b> - Project symlinks
     <ul>
-      <li><b>Active</b> -> /Projects/Active</li>
+      <li><b>Active</b> → /Projects/Active</li>
     </ul>
   </li>
   <li><b>Media</b> - Media symlinks
     <ul>
-      <li><b>Images</b> -> /Media/Images</li>
-      <li><b>Audio</b> -> /Media/Audio</li>
-      <li><b>Video</b> -> /Media/Video</li>
+      <li><b>Images</b> → /Media/Images</li>
+      <li><b>Audio</b> → /Media/Audio</li>
+      <li><b>Video</b> → /Media/Video</li>
     </ul>
   </li>
   <li><b>Apps</b> - Application shortcuts</li>
@@ -234,11 +234,9 @@ This structure uses specialized top-level directories to provide clear separatio
 
 Symlinks are a core feature of this structure, allowing you to access the same content from multiple locations.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐧 Unix-like Systems (macOS, Linux)</h3>
-      <pre>
+### 🐧 Unix-like Systems (macOS, Linux)
+
+```bash
 # Create the Jump directory structure
 mkdir -p ~/Jump/{Documents/{Personal,Work},Projects/Active,Media/{Images,Audio,Video},Apps,Configs,Locations,Shortcuts}
 
@@ -261,11 +259,11 @@ ln -s /Applications/Firefox.app ~/Jump/Apps/Firefox
 # Create configuration symlinks
 ln -s ~/Configs/Terminal/Zsh ~/.zshrc
 ln -s ~/Configs/Apps/VSCode ~/Library/Application\ Support/Code/User/settings.json
-      </pre>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🪟 Windows (PowerShell, Run as Administrator)</h3>
-      <pre>
+```
+
+### 🪟 Windows (PowerShell, Run as Administrator)
+
+```powershell
 # Create the Jump directory structure
 New-Item -ItemType Directory -Path "$HOME\Jump\Documents\Personal" -Force
 New-Item -ItemType Directory -Path "$HOME\Jump\Documents\Work" -Force
@@ -289,19 +287,15 @@ New-Item -ItemType SymbolicLink -Path "$HOME\Jump\Projects\Active" -Target "$HOM
 New-Item -ItemType SymbolicLink -Path "$HOME\Jump\Media\Images" -Target "$HOME\Media\Images" -Force
 New-Item -ItemType SymbolicLink -Path "$HOME\Jump\Media\Audio" -Target "$HOME\Media\Audio" -Force
 New-Item -ItemType SymbolicLink -Path "$HOME\Jump\Media\Video" -Target "$HOME\Media\Video" -Force
-      </pre>
-    </td>
-  </tr>
-</table>
+```
 
 ## 💡 Implementation Tips
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Automated Setup</h3>
-      <p>This structure is complex - create a shell script to set up the initial directory structure:</p>
-      <pre>
+### 🚀 Automated Setup
+
+This structure is complex - create a shell script to set up the initial directory structure:
+
+```bash
 #!/bin/bash
 # Create Advanced File Structure - Base Directories
 
@@ -321,24 +315,21 @@ mkdir -p ~/Downloads
 
 # Create symlinks
 ./create_symlinks.sh
-      </pre>
-      <p>Break the setup into multiple scripts, one for each major directory to manage complexity.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Migration Strategies</h3>
-      <p>Migrating to this complex structure requires planning:</p>
-      <ol>
-        <li><b>Start with the Jump directory</b> - Create the symlinks first for easy navigation</li>
-        <li><b>Implement top-level directories</b> - Create the primary structure</li>
-        <li><b>Migrate content in stages</b> - Move content type by type (Documents first, then Projects, etc.)</li>
-        <li><b>Use temporary directories</b> - Create staging areas for content during migration</li>
-        <li><b>Create scripts</b> - Automate file moves and organization where possible</li>
-        <li><b>Test symlinks</b> - Regularly verify that symlinks work correctly</li>
-        <li><b>Update gradually</b> - Complete the migration over days or weeks, not all at once</li>
-      </ol>
-    </td>
-  </tr>
-</table>
+```
+
+Break the setup into multiple scripts, one for each major directory to manage complexity.
+
+### 🧠 Migration Strategies
+
+Migrating to this complex structure requires planning:
+
+1. **Start with the Jump directory** - Create the symlinks first for easy navigation
+2. **Implement top-level directories** - Create the primary structure
+3. **Migrate content in stages** - Move content type by type (Documents first, then Projects, etc.)
+4. **Use temporary directories** - Create staging areas for content during migration
+5. **Create scripts** - Automate file moves and organization where possible
+6. **Test symlinks** - Regularly verify that symlinks work correctly
+7. **Update gradually** - Complete the migration over days or weeks, not all at once
 
 ## ✨ Key Advantages
 
@@ -354,37 +345,23 @@ mkdir -p ~/Downloads
 
 This advanced structure works best with specific tools:
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🔍 File Management</h3>
-      <ul>
-        <li><b>macOS</b>: Hazel, Alfred, Default Folder X</li>
-        <li><b>Windows</b>: Directory Opus, PowerToys, Everything</li>
-        <li><b>Linux</b>: Dolphin, Krusader, Thunar</li>
-        <li><b>Cross-platform</b>: Double Commander, Total Commander</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🔄 Sync & Backup</h3>
-      <ul>
-        <li><b>Restic</b> - Efficient backup that respects symlinks</li>
-        <li><b>Syncthing</b> - Peer-to-peer file synchronization</li>
-        <li><b>Rclone</b> - Sync with cloud services</li>
-        <li><b>Borg Backup</b> - Deduplicating archiver</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Automation</h3>
-      <ul>
-        <li><b>cron/launchd</b> - Task scheduling</li>
-        <li><b>rsync</b> - Advanced file synchronization</li>
-        <li><b>find/fd</b> - File discovery tools</li>
-        <li><b>shell scripts</b> - Custom automation</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🔍 File Management
+- **macOS**: Hazel, Alfred, Default Folder X
+- **Windows**: Directory Opus, PowerToys, Everything
+- **Linux**: Dolphin, Krusader, Thunar
+- **Cross-platform**: Double Commander, Total Commander
+
+### 🔄 Sync & Backup
+- **Restic** - Efficient backup that respects symlinks
+- **Syncthing** - Peer-to-peer file synchronization
+- **Rclone** - Sync with cloud services
+- **Borg Backup** - Deduplicating archiver
+
+### ⚙️ Automation
+- **cron/launchd** - Task scheduling
+- **rsync** - Advanced file synchronization
+- **find/fd** - File discovery tools
+- **shell scripts** - Custom automation
 
 ## 📝 Customization Ideas
 
