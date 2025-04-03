@@ -1,1 +1,63 @@
-__md.md
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+._*
+
+# macOS-specific files
+.Spotlight-V100
+.Trashes
+.fseventsd
+.AppleDouble
+.AppleDB
+.VolumeIcon.icns
+
+# Windows-specific files
+$RECYCLE.BIN/
+System Volume Information/
+*.lnk
+
+# Linux-specific files
+*~
+.cache/
+.local/
+.config/
+Trash/
+lost+found/
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.swp
+*.swo
+*.log
+*.orig
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+
+# Node and Python environments (if scripts are added later)
+node_modules/
+venv/
+.env
+*.pyc
+__pycache__/
+
+# Filesystem snapshots
+.snapshots/
+*.tar
+*.gz
+*.zip
+*.rar
+
+# Files from archiving or compression
+*.tar.gz
+*.tgz
+*.bz2
+*.xz
+*.7z
